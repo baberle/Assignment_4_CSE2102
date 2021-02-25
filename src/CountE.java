@@ -96,7 +96,7 @@ public class CountE {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-        // get file from input argument, absolute path required
+        // get file from input argument, absolute path change something!
         File file = new File(args[0]);
         // create scanner to get each line from text file
         Scanner sc = new Scanner(file);
